@@ -1,0 +1,7 @@
+## Interface: 11200
+## Version: 1.0
+## Title: FastTOT
+## Notes: Massively increases performance of Target Of Target frame -- SuperWoW Required
+## Author: OldManAlpha
+
+FastTOT.lua
