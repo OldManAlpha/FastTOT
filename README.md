@@ -1,3 +1,5 @@
+# FastTOT
+
 In the WoW Vanilla 1.12 client, the Target of Target frame is laggy because it updates every frame. This addon uses SuperWoW's API to only update it when it actually requires an update.
 
 ### Required Client Mods
